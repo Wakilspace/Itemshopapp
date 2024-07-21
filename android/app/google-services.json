@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341612834236",
+    "firebase_url": "https://itemshop-b56a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "itemshop-b56a3",
+    "storage_bucket": "itemshop-b56a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341612834236:android:4e79a95fa0461b49bfcfb9",
+        "android_client_info": {
+          "package_name": "com.example.mistakeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4JOTG3wXMXauh6IXqVNIhu2lA943yr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

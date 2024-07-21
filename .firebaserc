@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "itemshop-b56a3"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": "postgresql://localhost:5432?sslmode=disable"
+    }
+  }
+}
